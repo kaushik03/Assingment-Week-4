@@ -1,0 +1,3 @@
+.Rhistory
+UCI HAR Dataset/
+.RData
